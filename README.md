@@ -1,13 +1,6 @@
 Hello! I'm Matheus Jordão 🖐️
 
-<h2 class="heading-element" dir="auto">DevOps Engineer | AWS Certified | IaC Enthusiast</h2>
-
-Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
-
-Tech Stack
-
-
-div class="markdown-heading" dir="auto">
+<div class="markdown-heading" dir="auto">
                                                     <h2 class="heading-element" dir="auto">DevOps Engineer | AWS Certified | IaC Enthusiast</h2>
                                                     <a id="user-content-devops-engineer--aws-certified--iac-enthusiast" class="anchor" aria-label="Permalink: DevOps Engineer | AWS Certified | IaC Enthusiast" href="#devops-engineer--aws-certified--iac-enthusiast">
                                                         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
