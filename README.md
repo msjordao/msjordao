@@ -137,26 +137,5 @@ Hello! I'm Matheus Jordão 🖐️
                                                         <img src="https://camo.githubusercontent.com/06f9331eb2c4fd784e19451d04418cc3d8f1a06416dbe63dfdf65246747784b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4175746f6d6174696f6e2d456e74687573696173742d3030433742373f7374796c653d666f722d7468652d6261646765" alt="Automation Enthusiast" data-canonical-src="https://img.shields.io/badge/Automation-Enthusiast-00C7B7?style=for-the-badge" style="max-width: 100%;">
                                                     </a>
                                                 </p>
-                                                <div class="markdown-heading" dir="auto">
-                                                    <h3 class="heading-element" dir="auto">📊 GitHub Stats</h3>
-                                                    <a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📊 GitHub Stats" href="#-github-stats">
-                                                        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                                                            <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-                                                        </svg>
-                                                    </a>
-                                                </div>
-                                                <p dir="auto">
-                                                    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f22bc0908c12d2dec23233e8d7b20d635920eab5c8e7516f82e26b03cb428e52/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d686d64696f2673686f775f69636f6e733d74727565267468656d653d7261646963616c">
-                                                        <img src="https://camo.githubusercontent.com/f22bc0908c12d2dec23233e8d7b20d635920eab5c8e7516f82e26b03cb428e52/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d686d64696f2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=msjordao&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
-                                                    </a>
-                                                </p>
-                                                <p dir="auto">Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀</p>
-                                                <p dir="auto">
-                                                    <a href="https://roadmap.sh" rel="nofollow">
-                                                        <img src="https://camo.githubusercontent.com/5c75dfb4b7847a1773a617dc7827201ead747ebf0558dd000ef314c09f3aa625/68747470733a2f2f6170692e726f61646d61702e73682f76312d62616467652f74616c6c2f3634356362663239356531393766383561326333613830343f76617269616e743d6461726b" alt="roadmap.sh" data-canonical-src="https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark" style="max-width: 100%;">
-                                                    </a>
-                                                </p>
-                                            </article>
-                                        </div>
-                                    </div>
-                                
+                                            
+                                                    
