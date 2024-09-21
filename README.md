@@ -1,5 +1,3 @@
-## Data Scientist | Machine Learning & Artificial Intelligence
-
 Passionate Data Scientist with extensive experience in **AI** and **Machine Learning**, specializing in **model development** and **deployment** using **AWS**. Proven track record of delivering innovative data-driven solutions to complex business problems.
 
 ### Key Skills:
