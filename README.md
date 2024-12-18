@@ -22,13 +22,13 @@ Feel free to explore and connect!</p>
                                                 </div>
                                                 <p dir="auto">
                                                     <a href="https://aws.amazon.com/" rel="nofollow">
-                                                        <img src="https://camo.githubusercontent.com/07b9bdb194e5e5789ccfc711011f139a64122ecf6f9f582c58d1b0658a267f98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465" alt="GitHub msjordao" data-canonical-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" style="max-width: 100%;">
+                                                        <img src="#" alt="GitHub msjordao" data-canonical-src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" style="max-width: 100%;">
                                                     </a>
                                                     <a href="https://terraform.io" rel="nofollow">
-                                                        <img src="https://camo.githubusercontent.com/a79fa8a61373a1fd201ef9c30decce227b72e7bd84a699b33f6ab2c4cd553d53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465727261666f726d2d3742343242433f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465" alt="GitHub msjordao" data-canonical-src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" style="max-width: 100%;">
+                                                        <img src="#" alt="GitHub msjordao" data-canonical-src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" style="max-width: 100%;">
                                                     </a>
                                                     <a href="https://docker.com/" rel="nofollow">
-                                                        <img src="https://camo.githubusercontent.com/bce5c9b25447afefd9c8dc63febce5936fbff659beee51466a130b41a2821a9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="GitHub msjordao" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
+                                                        <img src="#" alt="GitHub msjordao" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
                                                     </a>
                                                 </p>
                                                 <div class="markdown-heading" dir="auto">
