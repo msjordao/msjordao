@@ -9,9 +9,9 @@ Hello! I'm Matheus Jordão
                                                     </a>
                                                 </div>
                                                 <p dir="auto">Welcome to my GitHub profile!
-I'm a passionate Solutions Architect in Training (2/5) with a strong background in cloud technologies and automation, currently advancing my expertise through AWS-powered programs.
-I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here, you'll find a collection of my projects, contributions, and open-source work as I continue my journey in cloud solutions and architecture.
-Feel free to explore and connect!</p>
+I’m a Solutions Architect in Training (2/5) with experience in cloud technologies and automation, currently honing my skills through AWS-powered programs. My passion lies in designing scalable, resilient systems that enable teams to deliver software with greater speed and efficiency.
+Here, you’ll discover a showcase of my projects, contributions, and open-source work as I progress in my journey toward mastering cloud solutions and architecture.
+Feel free to explore my work and connect!</p>
                                                 <div class="markdown-heading" dir="auto">
                                                     <h3 class="heading-element" dir="auto">Tech Stack</h3>
                                                     <a id="user-content-tech-stack" class="anchor" aria-label="Permalink: Tech Stack" href="#tech-stack">
