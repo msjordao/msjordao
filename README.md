@@ -54,11 +54,11 @@ Feel free to explore and connect!</p>
                                                     </li>
                                                     <li>
                                                         <strong>Configuration Management</strong>
-                                                        : Ansible, Terraform
+                                                        : Terraform
                                                     </li>
                                                     <li>
                                                         <strong>Monitoring</strong>
-                                                        : Prometheus, Grafana, ELK Stack
+                                                        : ELK Stack
                                                     </li>
                                                     <li>
                                                         <strong>Scripting</strong>
