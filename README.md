@@ -102,7 +102,7 @@ Feel free to explore and connect!</p>
                                                 </div>
                                                 <ul dir="auto">
                                                     <li>
-                                                        <a href="https://matheusjordao.com" rel="nofollow">https://matheusjordao.com</a>
+                                                        comercial@matheusjordao.com.br
                                                     </li>
                                                 </ul>
                                                 <
