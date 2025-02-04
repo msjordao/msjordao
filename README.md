@@ -30,5 +30,8 @@ Visit my portfolio: [https://medium.com/@matheus_jordao](https://medium.com/@mat
 AWS Certified Solutions Architect – Associate (In progress, expected completion by March 2025).  
 (Participant in the Arquitet@s da Nuvem Program powered by AWS, focused on certification and practical experience).
 
+📫 Let's Connect! 💼 LinkedIn https://www.linkedin.com/in/matheusjordao/ | 📧 contato@matheusjordao.com.br
+
+
 ## Technologies of Interest:
 Cloud | MultiCloud | DevOps | AWS | Microsoft Azure | Google Cloud | Oracle Cloud | Terraform | Ansible
