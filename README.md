@@ -9,33 +9,6 @@ Specializing in Cloud & DevOps, I develop practical cloud solutions through real
 
 ## 📋 Key Activities:
 
-Strategic role in designing and implementing cloud solutions focused on performance, security, automation, and cost optimization, following the AWS Well-Architected Framework.
-
-• Solution Architecture: Designed scalable, resilient, and cost-efficient solutions, reducing infrastructure expenses by up to 35% through auto scaling and smart AWS service selection.
-
-• Cloud Security: Built environments 100% compliant with IAM Least Privilege, MFA, KMS, WAF, and GuardDuty, decreasing incidents by up to 30%.
-
-• IaC & Automation: Multi-region provisioning using Terraform and CloudFormation, cutting configuration errors by 90% and tripling delivery speed.
-
-• AWS Migration: Delivered hybrid strategies using VPN, Direct Connect, and VPC Peering, achieving 35% cost savings with zero downtime.
-
-• Serverless Solutions: Architected applications with Lambda, API Gateway, and DynamoDB, enabling auto scalability and cutting maintenance costs by 50%.
-
-• Containers & Microservices: Infrastructure with ECS and Fargate, handling 2M+ monthly requests with high availability.
-
-• Observability & Performance: Dashboards with CloudWatch, X-Ray, and AWS Config, reducing production incidents by up to 45%.
-
-• CI/CD: Pipelines with CodePipeline, CodeBuild, Terraform Cloud, and GitHub Actions; implemented blue/green deployments, boosting delivery efficiency by 70%.
-
-• High Availability: Multi-AZ and Auto Scaling designs with Aurora Serverless, ensuring 99.99% uptime.
-• Cost Optimization: Leveraged Cost Explorer and Trusted Advisor, generating annual savings of up to 25%.
-
-• Disaster Recovery: Architected solutions with RTO <5 min and RPO <1 min for critical systems.
-
-• Big Data: Projects with Redshift, S3, and Glue processing 10TB+ and accelerating business insights by 5x.
-
-• Networking & Connectivity: Optimized VPCs with Direct Connect and Transit Gateway, delivering low latency and throughput.
-
 - Infrastructure as Code (IaC): Secure and efficient provisioning using Terraform on AWS
 - AWS Security: IAM, Least Privilege, AWS KMS, WAF, GuardDuty, and threat protection strategies
 - Hybrid Solutions & Workload Migration: On-premises ↔ AWS integration via VPN, Direct Connect, and VPC Peering
