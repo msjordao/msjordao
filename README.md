@@ -35,7 +35,7 @@ Visit my portfolio: [https://medium.com/@matheus_jordao](https://medium.com/@mat
 
 ## 🎓 Certification:
 AWS Certified Solutions Architect – Associate (In progress, expected completion by March 2025).  
-(Participant in the Arquitet@s da Nuvem Program powered by AWS, focused on certification and practical experience).
+🎖️Certified Member of the Cloud Architects Program (Proz | Powered by AWS)
 
 📫 Let's Connect! 💼 LinkedIn https://www.linkedin.com/in/matheusjordao/ | 📧 matheus_jordao@icloud.com
 
