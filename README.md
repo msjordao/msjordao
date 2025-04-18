@@ -3,12 +3,13 @@
 Specializing in Cloud & DevOps, I develop practical cloud solutions through real-world scenario-based projects, using leading platforms such as AWS. My focus is on designing and implementing efficient, scalable, and secure solutions for businesses, helping them with migration, modernization, and optimization of their infrastructures to the cloud.
 
 ## 📋 Key Activities:
-- **AWS Solutions Architecture**: Planning and deploying scalable infrastructure using services like EC2, S3, RDS, VPC, and Lambda.
-- **Infrastructure as Code (IaC)**: Automating cloud environments with Terraform and CloudFormation to ensure consistency and scalability.
-- **Containers and Orchestration**: Deploying and managing applications with Docker and Amazon ECS/EKS.
-- **CI/CD Pipelines**: Automating deployment processes with AWS CodePipeline, AWS CodeBuild, and GitHub Actions.
-- **Security and Monitoring**: Implementing security best practices using AWS IAM, CloudTrail, CloudWatch, and AWS Config.
-- **Cloud Migration**: Supporting the migration of on-premises applications to AWS, improving reliability and reducing costs.
+- Infrastructure as Code (IaC): Secure and efficient provisioning using Terraform on AWS
+- AWS Security: IAM, Least Privilege, AWS KMS, WAF, GuardDuty, and threat protection strategies
+- Hybrid Solutions & Workload Migration: On-premises ↔ AWS integration via VPN, Direct Connect, and VPC Peering
+- Serverless & Containers: Modern architecture using Lambda, Fargate, EventBridge, and SNS/SQS
+- Monitoring & Observability: CloudWatch, AWS Config, X-Ray, and logging best practices
+- Automation & DevOps: CI/CD pipelines for infrastructure, AWS - CodePipeline, and Terraform Cloud
+- High Availability & Resilience: Scalable design with Aurora Serverless, Multi-AZ, Auto Scaling, and Load Balancers
 
 ## 🛠️ Key Skills:
 - **AWS Solutions Architecture**: EC2, S3, RDS, VPC, Lambda
