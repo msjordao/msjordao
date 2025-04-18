@@ -1,4 +1,4 @@
-# Cloud Architect Jr | AWS Specialist | Cloud Architects Program (powered by AWS)
+# Cloud Solutions Architect AWS | DevOps Engineer |🎖️Certified Member of the Cloud Architects Program (Proz | Powered by AWS) | AWS | Terraform | Docker | CI/CD | IaC
 
 Specializing in Cloud & DevOps, I develop practical cloud solutions through real-world scenario-based projects, using leading platforms such as AWS. My focus is on designing and implementing efficient, scalable, and secure solutions for businesses, helping them with migration, modernization, and optimization of their infrastructures to the cloud.
 
