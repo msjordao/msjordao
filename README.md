@@ -34,7 +34,7 @@ Specializing in Cloud & DevOps, I develop practical cloud solutions through real
 Visit my portfolio: [https://medium.com/@matheus_jordao](https://medium.com/@matheus_jordao)
 
 ## 🎓 Certification:
-AWS Certified Solutions Architect – Associate (In progress, expected completion by March 2025).  
+AWS Certified Solutions Architect – Associate (In progress).  
 🎖️Certified Member of the Cloud Architects Program (Proz | Powered by AWS)
 
 📫 Let's Connect! 💼 LinkedIn https://www.linkedin.com/in/matheusjordao/ | 📧 matheus_jordao@icloud.com
