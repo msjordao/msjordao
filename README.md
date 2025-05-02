@@ -1,7 +1,7 @@
 # Cloud Solutions Architect & DevOps Engineer | Cloud Architects Program (Powered by AWS) Certified | AWS | Terraform | Kubernetes | Docker | CI/CD | IaC
 
-Specializing in Cloud & DevOps, I develop practical cloud solutions through real-world scenario-based projects, using leading platforms such as AWS. My focus is on designing and implementing efficient, scalable, and secure solutions for businesses, helping them with migration, modernization, and optimization of their infrastructures to the cloud.
-
+➤ Certified Member of the Cloud Architects Program (Powered by AWS)
+8 years of experience in technology, currently specializing in Cloud and DevOps solutions for clients by developing practical and efficient systems. My expertise lies in designing and implementing scalable, secure, and high-performance architectures, always aligning best practices with a strategic understanding of business needs.
 
 ## 🧠 Soft Skills:
 
