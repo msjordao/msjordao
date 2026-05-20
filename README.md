@@ -21,11 +21,13 @@ Senior Cloud Engineer | SR Cloud Infrastructure Engineer | Cloud Migration Speci
 - High Availability & Resilience: Scalable design with Aurora Serverless, Multi-AZ, Auto Scaling, and Load Balancers
 
 ## 🛠️ Key Skills:
-- **AWS Solutions Architecture**: EC2, S3, RDS, VPC, Lambda
-- **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation
-- **Containers and Orchestration**: Docker, Amazon ECS/EKS
-- **Automation and CI/CD**: AWS CodePipeline, AWS CodeBuild, GitHub Actions
-- **Security and Monitoring**: AWS IAM, CloudTrail, CloudWatch
+(AWS/GCP/ZURE)AWSEC2, S3, RDS, Lambda, VPC, CloudFront, DynamoDB, ECS/Fargate, IAM, SQS, SNS, and EventBridge.
+Proficient in tools like GIT, Jenkins, Ansible, Docker, Kubernetes (EKS, AKS, GKE), Redis, etc.
+Strong scripting and automation skills (e.g., Bash, Python, PowerShell).
+Solid understanding of cloud platforms (e.g., AWS, Azure, GCP) and infrastructure-as-code concepts.
+Excellent problem-solving and troubleshooting abilities.
+Strong communication and collaboration skills to work effectively with cross-functional teams.
+DevSecOps | CI/CD Automation | Infrastructure as Code | AI Agents
 
 ## 📌 Practical Projects:
 - **Corporate Migration to AWS**: Planning and executing the migration of a data center to Amazon EC2 and RDS, ensuring high availability and performance.
