@@ -1,8 +1,10 @@
 # Cloud Solutions Architect | Senior Cloud Engineer | SR Cloud Infrastructure Engineer | Cloud Migration | Expert AWS/GCP/Azure | AI | Terraform | CloudFormation | CLI | Docker | Kubernetes | Ansible | FinOps | ArgoCD | (IaC) | CI/CD pipelines GitHub
 
-➤ Certified Member of the Cloud Architects Program (Powered by AWS)
+Senior Cloud Engineer | SR Cloud Infrastructure Engineer | Cloud Migration Specialist | Expert AWS/GCP/Azure | AI
+- LATAM & International Experience 🇺🇸🇵🇹
+- Certified member of the AWS Architects Program
 
-8 years of experience in technology, currently specializing in Cloud and DevOps solutions for clients by developing practical and efficient systems. My expertise lies in designing and implementing scalable, secure, and high-performance architectures, always aligning best practices with a strategic understanding of business needs.
++10 years of experience in technology, currently specializing in Cloud and DevOps solutions for clients by developing practical and efficient systems. My expertise lies in designing and implementing scalable, secure, and high-performance architectures, always aligning best practices with a strategic understanding of business needs.
 
 ## 🧠 Soft Skills:
 
