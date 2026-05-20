@@ -12,7 +12,7 @@ Senior Cloud Engineer | SR Cloud Infrastructure Engineer | Cloud Migration Speci
 
 ## 📋 Key Activities:
 
-- Infrastructure as Code (IaC): Secure and efficient provisioning using Terraform on AWS
+- Infrastructure as Code (IaC): Secure and efficient provisioning using Terraform on AWS/GCP/Azure
 - AWS Security: IAM, Least Privilege, AWS KMS, WAF, GuardDuty, and threat protection strategies
 - Hybrid Solutions & Workload Migration: On-premises ↔ AWS integration via VPN, Direct Connect, and VPC Peering
 - Serverless & Containers: Modern architecture using Lambda, Fargate, EventBridge, and SNS/SQS
