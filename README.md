@@ -42,7 +42,7 @@ Visit my portfolio: [https://medium.com/@matheus_jordao](https://medium.com/@mat
 AWS Certified Solutions Architect – Associate (In progress).  
 🎖️Certified Member of the Cloud Architects Program (Proz | Powered by AWS)
 
-📫 Let's Connect! 💼 LinkedIn https://www.linkedin.com/in/matheusjordao/ | 📧 matheus_jordao@icloud.com
+📫 Let's Connect! 💼 LinkedIn https://www.linkedin.com/in/matheusjordao/ | 📧 matheusdasilvajordao@gmail.com
 
 
 ## Technologies of Interest:
