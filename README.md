@@ -1,4 +1,4 @@
-# Cloud Solutions Architect | Senior Cloud Engineer | SR Cloud Infrastructure Engineer | Cloud Migration | Expert AWS/GCP/Azure | AI | Terraform | CloudFormation | CLI | Docker | Kubernetes | Ansible | FinOps | ArgoCD | (IaC) | CI/CD pipelines GitHub
+# Cloud Solutions Architect | SR Cloud Infrastructure Engineer | Cloud Migration Specialist | Expert AWS/GCP/Azure | AI | Terraform | CloudFormation | CLI | Docker | Kubernetes | Ansible | FinOps | ArgoCD | (IaC) | CI/CD pipelines GitHub
 
 Senior Cloud Engineer | SR Cloud Infrastructure Engineer | Cloud Migration Specialist | Expert AWS/GCP/Azure | AI
 - LATAM & International Experience 🇺🇸🇵🇹
